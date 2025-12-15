@@ -1,5 +1,5 @@
-David Santiago (LIDER)
-Lluis Garcia
-Vicenç Obiol
-Santi Moreno
+- David Santiago (LIDER)
+- Lluis Garcia
+- Vicenç Obiol
+- Santi Moreno
 
